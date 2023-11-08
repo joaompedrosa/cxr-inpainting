@@ -19,4 +19,8 @@ Run segment_dataset.py.
 Run test_dataset.py. Note that anterior rib segmentations for the chosen data (media\\test) must be available at media\\test_antribsegm.
 
 ## Example Results
-https://github.com/joaompedrosa/cxr-inpainting/results-final/gifgrid_large.gif
+
+
+https://github.com/joaompedrosa/cxr-inpainting/assets/78594243/599c0835-9212-47f4-b44c-baccae3ce0e6
+
+
