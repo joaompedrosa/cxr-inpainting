@@ -19,8 +19,17 @@ Run segment_dataset.py.
 Run test_dataset.py. Note that anterior rib segmentations for the chosen data (media\\test) must be available at media\\test_antribsegm.
 
 ## Example Results
+Some examples of inpainting CXRs with large, medium and small lesions respectively. Full resolution videos at results-final.
+
+https://github.com/joaompedrosa/cxr-inpainting/assets/78594243/abce3ef5-7670-4ae9-8ff8-d9674019f577
 
 
-https://github.com/joaompedrosa/cxr-inpainting/assets/78594243/599c0835-9212-47f4-b44c-baccae3ce0e6
 
+https://github.com/joaompedrosa/cxr-inpainting/assets/78594243/e8481c64-68b6-461e-ab00-2249c6149dc1
+
+
+
+
+
+https://github.com/joaompedrosa/cxr-inpainting/assets/78594243/462b93ae-33da-46ef-b562-5b02ad593dad
 
