@@ -1,5 +1,5 @@
-# generative-inpainting-pytorch
-A PyTorch implementation for AnaCattNet-AR from [...]
+# cxr-inpainting
+A PyTorch implementation for AnaCattNet-AR from "Anatomically-Guided Chest Radiography Image Inpainting: Synthetizing Constrastive Examples"
 Based on the PyTorch implementation (https://github.com/daa233/generative-inpainting-pytorch) of the paper [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892) according to the author's [TensorFlow implementation](https://github.com/JiahuiYu/generative_inpainting).
 
 ## Prerequisites
