@@ -22,5 +22,3 @@ Run test_dataset.py. Note that anterior rib segmentations for the chosen data (m
 https://github.com/joaompedrosa/cxr-inpainting/assets/78594243/48093381-e2a7-4a7c-8f3f-d98ddf1792a9
 
 https://github.com/joaompedrosa/cxr-inpainting/assets/78594243/67499324-abf9-4414-b38c-db32ab1bdc31
-
-https://github.com/joaompedrosa/cxr-inpainting/assets/78594243/d4242057-1b07-4c25-940d-2447cb1d2e6a
